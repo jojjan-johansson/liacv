@@ -1,0 +1,64 @@
+h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    border: solid;
+    background-color: black;
+    font-style: italic;
+}
+h4{
+   color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    border: solid;
+    background-color: black;
+    font-style: italic;
+}
+h5{
+  background-color: black;
+  font-size: 20px;
+  border: solid;
+}
+h4.style{
+  font-style: italic;
+}
+p{
+  color: black;
+}
+p.citat{
+  font-style: italic;
+}
+ul.egenskaper{
+  font-style: italic;
+}
+.profilbild{
+    width: 150px;
+    border: solid;
+}
+.jag{
+    width: 100px;
+}
+  .navbord{
+    color: black;
+  }
+  a{
+      color: black;
+      font-size: large;
+      background-color: white;
+  }
+  body {
+    background-image: url(världen.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.activmeny{
+  color: grey;
+}
+.kursivbold{
+  font-style: italic;
+}
+.dekorationstext{
+  font-style: italic;
+  font-size: x-large;
+}
