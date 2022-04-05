@@ -6,7 +6,7 @@ h1{
     border: solid;
     background-color: black;
     font-style: italic;
-    background-image: linear-gradient(grey, black); -webkit-text-fill-color:  
+    background-image: linear-gradient(grey, black);   
 }
 h4{
    color: white;
